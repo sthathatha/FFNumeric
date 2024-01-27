@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 75b52f5a9ab111949a7ad265ab8647e9
+  m_SerializeEntries:
+  - m_GUID: 7564f759042b7e0468899085c409743b
+    m_Address: PlayerInGamePrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89116981140937a4988e96d730797125
+    m_Address: EnemyInGamePrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 221b33cb8321b304890ad4eb418a5637
+    m_Address: DrowsAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 631161a547ff2674bb6c596790074695
+    m_Address: HexCursorPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b003f370557d15241b020ede9427da2a
+    m_Address: ErapsAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d71b6a694788a14c8ad34990cf3684f
+    m_Address: ExaAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20d33d743b6804644bf3e8a8446483c4
+    m_Address: KoobAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4faafdfbb1040674781cd9301d892e0f
+    m_Address: WorraAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c45e495f9f082a43a3b093d2d61a9a4
+    m_Address: YouAnim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 021271876ec2d14498a1fa43c0766fb0
+    m_Address: EffectMagicL
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 982ebd50eac66ae4cb9365cf48ca9ab0
+    m_Address: EffectMagicS
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eee6abd5268be0046b731b5cc1b22a0b
+    m_Address: EffectNeedle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a2699070ef96014fb054bb4d12f274e
+    m_Address: EffectSkillGrad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3620346819a9c74419e55cdaaf5d17a2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a96d91fa67d845a49ac82cbf8d9ed687, type: 2}
+    - {fileID: 11400000, guid: ec568bfc207afc44caa55db99d9e5b2d, type: 2}

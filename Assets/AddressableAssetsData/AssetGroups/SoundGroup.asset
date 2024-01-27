@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SoundGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: SoundGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 31ba3d09b1da6d44392cfaf799f96120
+  m_SerializeEntries:
+  - m_GUID: 834d7cf5f5db4e841b92082d932be541
+    m_Address: bgm_Amenoshita
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62c371cae5e3760449e28bd57789faca
+    m_Address: bgm_Breeze4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e4b5e892154763b4fb7d91aa08832a49
+    m_Address: bgm_Deep_Woods4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44e8a290b0070ee4eb17d586b482216d
+    m_Address: bgm_Desert6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c58a51c03e997047b2ccac9115ca2cc
+    m_Address: bgm_Kengeki
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04ad93b162979b04d829e9cef7603294
+    m_Address: bgm_Prairie4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: caa54aaa56ae0b84d90fb56d7b42f90e
+    m_Address: bgm_RetroRPG_Battle2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5668fae7dd3d82040b7ace35749ec77d
+    m_Address: se_attack_drows
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f52cb7346b7e4ff4cb6a2ca87e907801
+    m_Address: se_attack_eraps
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac5a1b0065850e94b9df617d1aa4aa73
+    m_Address: se_attack_exa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 429610cdede1fe749aaec8b1d2f83a73
+    m_Address: se_attack_koob
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4eddfe978bf5e240a110aa92e913dec
+    m_Address: se_attack_worra
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad932f0a67d749543879087c9c520054
+    m_Address: se_attack_you
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ab8eff66e4cc554bbc27ad441d1dbf4
+    m_Address: se_damage_normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9a0f53619723a44bb9422506f76b245
+    m_Address: se_damage_shield
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d2e7e16744e97af4f8ed3bc85b7a926d
+    m_Address: se_gameover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59d56773a7de7fb4ea7d6e89ae54c0de
+    m_Address: se_skill_effect
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d9e1c7eef83a434a89c21b66dc34317
+    m_Address: se_skill_exa
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c19f5e71d53f11c4484e9be4885c223a
+    m_Address: se_skill_koob
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5bb32b46cf3fd345a434d26c50e8fea
+    m_Address: se_skill_you
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0559139166136ce4b9d07d50614e7542
+    m_Address: se_system_cancel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f7a48f0d6d1c7a46afd6ac6e2a53868
+    m_Address: se_system_move
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b68cbc1f255745e4eada2c939a89d2b3
+    m_Address: se_system_ok
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3620346819a9c74419e55cdaaf5d17a2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e786607050670244483af2aa421a62c2, type: 2}
+    - {fileID: 11400000, guid: 989be2ac1f8152846a5d52e089868d9f, type: 2}
